@@ -1,5 +1,9 @@
 # Windows Terminal 
 
+## Cascadia Code
+
+Intall [Cascadia Code](https://github.com/microsoft/cascadia-code/releases/).
+
 ## Set the font and the default theme
 
 ```json
