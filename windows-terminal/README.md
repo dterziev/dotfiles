@@ -1,8 +1,12 @@
 # Windows Terminal 
 
-## Cascadia Code
+## Fonts
 
-Intall [Cascadia Code](https://github.com/microsoft/cascadia-code/releases/).
+* Install [Cascadia Code (CaskaydiaCove NF)](https://github.com/ryanoasis/nerd-fonts/releases/latest) ([Nerd Fonts](https://www.nerdfonts.com/)).
+* Install [Cascadia Code](https://github.com/microsoft/cascadia-code/releases/latest).
+* Install [Fira Code](https://github.com/tonsky/FiraCode/releases/latest).
+
+
 
 ## Set the font and the default theme
 
@@ -10,10 +14,9 @@ Intall [Cascadia Code](https://github.com/microsoft/cascadia-code/releases/).
 {
   "profiles": {
     "defaults": {
-      "fontFace": "Cascadia Code PL",
+      "fontFace": "CaskaydiaCove NF",
       "colorScheme": "Campbell"
-    },
-    ...
+    }
   }
 }
 ```
